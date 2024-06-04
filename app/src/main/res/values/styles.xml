@@ -1,0 +1,46 @@
+<resources>
+    <!-- Стиль для styleSumbol_A -->
+    <style name="styleSumbol_A" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">30dp</item>
+        <item name="android:textColor">@color/Blue</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginEnd">5dp</item>
+        <item name="android:background">@null</item>
+    </style>
+
+    <!-- Стиль для styleValToka -->
+    <style name="styleValToka" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">30dp</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginEnd">5dp</item>
+        <item name="android:layout_width">44dp</item>
+        <item name="android:layout_height">35dp</item>
+        <item name="android:background">@null</item>
+    </style>
+
+    <!-- Стиль для styleNameLine -->
+    <style name="styleNameLine" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">30dp</item>
+        <item name="android:textColor">@color/Blue</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginStart">28dp</item>
+        <item name="android:layout_marginTop">40dp</item>
+        <item name="android:background">@null</item>
+    </style>
+
+    <!-- Стиль для статус -->
+    <style name="статус" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">39dp</item>
+        <item name="android:layout_height">35dp</item>
+        <item name="android:background">@null</item>
+    </style>
+
+    <!-- Стиль для Batt -->
+    <style name="styleBatt" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">30dp</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@null</item>
+    </style>
+</resources>
